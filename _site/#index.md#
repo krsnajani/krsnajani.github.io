@@ -1,0 +1,26 @@
+---
+layout: default.liquid
+title: Krishna's Scratchpad on the Internet
+---
+
+Namaskaram!
+
+I am Krishna, and I write a small blog on the Internet called - Krishna's Scratchpad on the Internet.
+
+As someone who refrains from using modern social media, I find solace in my small personal corner of the internet, where my speech is neither constantly moderated nor subject to self-surveillance by social construct.
+
+I am currently a student at the Institute of Law, Nirma University and I am keenly interested in becoming a career academic. Naturally, I am inclined towards the intersection between law, technology and constitutional rights or simply, 'Digital Constitutionalism'
+
+If you you like to have a conversation about anything I have talked about here feel free to send me an email: krishnajani@posteo.com
+
+I maintain an active library of music over at [Bandcamp!](https://bandcamp.com/krsnaj)
+
+You may also access my CV [here](./cv.pdf)
+
+## Recent Blog Posts
+
+{% for post in collections.posts.pages %}
+- [{{ post.title }}]({{ post.permalink }})
+{% endfor %}
+
+
