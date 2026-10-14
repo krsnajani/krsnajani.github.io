@@ -10,14 +10,21 @@
 		
 		
 		
-			<lastBuildDate>Fri, 02 Oct 2026 12:50:21 +0530</lastBuildDate>
+			<lastBuildDate>Wed, 14 Oct 2026 12:02:43 +0530</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Outline of a &#34;Theory of Practice&#34; of Indian Constitutionalism</title>
+				<link>http://localhost:1313/blog/upendra-baxi-theory-of-practice-of-indian-constitutionalism/</link>
+				<pubDate>Wed, 14 Oct 2026 12:02:43 +0530</pubDate>
+				<guid>http://localhost:1313/blog/upendra-baxi-theory-of-practice-of-indian-constitutionalism/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;This is an article written by Dr. Upendra Baxi published in The Politics and Ethics of the Indian Constitution&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;introduction-situating-the-semi-learned-production&#34;&gt;Introduction: Situating the Semi-Learned Production&lt;/h1&gt;&#xA;&lt;p&gt;This essay explores the tasks of social theory and philosophy of Indian&#xA;constitutionalism at work. But these presuppose a stable discourse&#xA;concerning the notions of constitutions and constitutionalisms, which is&#xA;only partially so.&lt;/p&gt;&#xA;&lt;p&gt;A discourse addressed to &amp;rsquo;the&amp;rsquo; philosophy of the Indian Constitution&#xA;makes several assumptions, the most crucial being that there is a genre&#xA;called &amp;lsquo;philosophy&amp;rsquo; even in this post-modernist and post-Derridean&#xA;world. It assumes a &amp;lsquo;universal&amp;rsquo; called &amp;lsquo;political philosophy&amp;rsquo;.&#xA;Admittedly, the singular here altogether misleads; all we have are&#xA;genres of social and political theories/philosophies. I merely straddle&#xA;this philosophical biodiversity here.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>The Init Post</title>
-				<link>http://localhost:1313/posts/my-first-post/</link>
+				<link>http://localhost:1313/blog/my-first-post/</link>
 				<pubDate>Fri, 02 Oct 2026 12:50:21 +0530</pubDate>
-				<guid>http://localhost:1313/posts/my-first-post/</guid>
+				<guid>http://localhost:1313/blog/my-first-post/</guid>
 				<description></description>
 			</item>
 	</channel>

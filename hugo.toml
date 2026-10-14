@@ -1,4 +1,5 @@
 baseURL = 'https://krsnajani.github.io'
 locale = 'en-us'
 title = 'Krishnas Scratchpad on the Internet'
-theme = 'shibui'
+theme = 'hugo-bearblog'
+

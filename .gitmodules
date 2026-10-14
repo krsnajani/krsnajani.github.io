@@ -1,3 +1,9 @@
 [submodule "themes/shibui"]
 	path = themes/shibui
 	url = https://github.com/ntk148v/shibui.git
+[submodule "themes/HugoTeX"]
+	path = themes/HugoTeX
+	url = https://github.com/hugotex-dev/HugoTeX.git
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
