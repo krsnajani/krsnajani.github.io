@@ -1,6 +1,3 @@
-# Hi!
+# Public Archive of Constitutional Law and Politics 
 
-My name is Krishna.
-
-
-- [**BLOG**](blog/)
+- [Interesting Articles - **CLICK ME**](blog/)
